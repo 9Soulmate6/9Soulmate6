@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Anastasia!
+# 👋 Hi, I'm Anastasia! Beginner Python backend developer
 
-💻 Beginner Python developer. I create Telegram bots and automate processes using Python.
+💻 I create Telegram bots and automate processes using Python.
 
 ---
 
@@ -16,11 +16,14 @@
 ## 📫 How to Contact Me
 
 <p align="center">
-  <a href="https://t.me/@S0ulmate_x">
+  <a href="https://t.me/S0ulmate_x">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://github.com/9Soulmate6">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://discord.com/users/soulmate.x">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
