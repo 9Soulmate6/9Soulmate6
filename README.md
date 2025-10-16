@@ -1,13 +1,13 @@
 # 👋 Привет, я Анастасия!
 
-💻 Python-разработчик. Создаю Telegram-ботов и автоматизирую процессы с помощью Python.
+💻 Начинающий python-разработчик. Создаю Telegram-ботов и автоматизирую процессы с помощью Python.
 
 ---
 
 ## 🧠 Мои навыки
 
 - 🐍 **Python** — основной язык разработки  
-- 🤖 **Telegram Bot API (aiogram, telebot)**  
+- 🤖 **Telegram Bot API (aiogram)**  
 - 🧰 **Git & GitHub**  
 - 🧑‍💻 **IDE:** PyCharm, VS Code, Cursor
 
@@ -30,14 +30,10 @@
 ## 📫 Как со мной связаться
 
 <p align="center">
-  <a href="https://t.me/твой_ник">
+  <a href="https://t.me/@S0ulmate_x">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://github.com/твой_ник">
+  <a href="https://github.com/9Soulmate6">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
----
-
-⭐️ Загляни в мои репозитории на GitHub!
